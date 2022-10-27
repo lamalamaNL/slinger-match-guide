@@ -13,8 +13,10 @@ Here you can find an example of the Slinger Match widget script that can be plac
 ></script>
 ```
 
-## Options
+## Required option
 * data-widget: the token for this widget
-* data-open: true or false
-* data-position: left or right
-* data-size: small or medium
+
+## Additional options
+* data-open: true or false (default is true)
+* data-position: left or right (default is left)
+* data-size: small or medium (default is medium)
