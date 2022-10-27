@@ -2,6 +2,16 @@
 
 Here you can find an example of the Slinger Match widget script that can be placed in any website to show a Slinger Match widget. The widget has several options to make the integration within the layout of the website as seamless as possible.
 
+## Widget with default optionse
+```
+<script
+    id="sli-script"
+    src="https://widget.slinger.to/match.js"
+    data-widget="rc84nhdjh"
+></script>
+```
+
+## Widget with all options
 ```
 <script
     id="sli-script"
