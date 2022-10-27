@@ -14,7 +14,7 @@ Here you can find an example of the Slinger Match widget script that can be plac
 ```
 
 ## Options
-data-widget: the token for this widget
-data-open: true or false
-data-position: left or right
-data-size: small or medium
+* data-widget: the token for this widget
+* data-open: true or false
+* data-position: left or right
+* data-size: small or medium
