@@ -1,5 +1,7 @@
 # Slinger Match Guide
 
+Here you can find an example of the Slinger Match widget script that can be placed in any website to show a Slinger Match widget. The widget has several options to make the integration within the layout of the website as seamless as possible.
+
 ```
 <script
     id="sli-script"
